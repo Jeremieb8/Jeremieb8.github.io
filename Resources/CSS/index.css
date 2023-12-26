@@ -1,0 +1,17 @@
+.Banner {
+   background-color:cornflowerblue;
+   color: white;
+   margin-top: 75px;
+   text-align: center;
+   padding: 20px;
+}
+#banner-image {
+   height: 100px;
+   width: 100px;
+}
+#Jeremie{
+   font-size: 100px;
+}
+.bold {
+   font-weight: bold;
+}
